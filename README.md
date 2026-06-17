@@ -1,219 +1,105 @@
-<!-- ANIMATED HEADER BANNER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Pooja%20Kumari&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=B.Tech%20Computer%20Engineering%20%7C%20AI%20Specialization&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
-</div>
-
-<!-- ANIMATED TYPING SVG -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Pooja+Kumari+👋;B.Tech+Computer+Engineering+Student+🎓;AI+%26+Machine+Learning+Enthusiast+🤖;Building+the+Future+with+Intelligent+Systems+🚀;Turning+Data+into+Decisions+✨)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Hi%20I'm%20Tina!%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Web%20Developer&descAlignY=55&descAlign=50" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%F0%9F%8E%93;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Web+Developer+%F0%9F%8C%90;GDG-UVPCE+Member+%F0%9F%9A%80;Always+Learning%2C+Always+Building!+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<!-- ABOUT ME — PINTEREST 2-COLUMN LAYOUT -->
-<table align="center" width="100%">
-<tr>
-<td width="55%" valign="top">
+## 👩‍💻 About Me
 
-### 🌸 About Me
-
-```yaml
-Name        : Pooja Kumari
-Degree      : B.Tech Computer Engineering
-Specialization : Artificial Intelligence
-Status      : Student 📚
-Location    : India 🇮🇳
-Passion     : AI · ML · Deep Learning · NLP
-Currently   : Exploring LLMs & Neural Networks
-Goal        : Build AI that makes life better
+```python
+tina = {
+    "name": "Tina Kumari Mohanka",
+    "university": "Ganpat University (UVPCE)",
+    "degree": "B.Tech Computer Engineering (AI)",
+    "cgpa": 8.55,
+    "location": "Ahmedabad, Gujarat 🇮🇳",
+    "community": "GDG-UVPCE Member",
+    "interests": ["AI/ML", "Web Development", "Data Analysis"],
+    "currently": "Seeking Internships 🎯",
+    "fun_fact": "I debug code at midnight and enjoy it 😄"
+}
 ```
 
-- 🔭 Currently working on **AI/ML Projects**
-- 🌱 Learning **Deep Learning, NLP, LLMs**
-- 🧠 Exploring **Computer Vision & Generative AI**
-- 💡 Love turning complex data into smart solutions
-- 🎨 Also passionate about **UI/UX & Clean Design**
-- ⚡ Fun fact: I think in algorithms 🤖
+---
 
-</td>
-<td width="45%" align="center" valign="top">
+## 🛠️ Tech Stack
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280px" alt="AI coding gif" style="border-radius: 16px;"/>
+<div align="center">
 
-<br/><br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="280px" alt="coding gif" style="border-radius: 16px;"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-<!-- ANIMATED STATS SECTION -->
-<div align="center">
+## 🚀 Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🏥 **Medical Diagnosis ML** | ML model for medical diagnosis using patient data | Python, Scikit-learn, Pandas |
+
+---
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=PoojaKumari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true&include_all_commits=true" width="48%" />
+<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PoojaKumari&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF6E00&currStreakLabel=A855F7&sideLabels=FFFFFF&dates=888888" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=tina5201&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" width="48%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tina5201&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="48%"/>
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojaKumari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" width="40%" />
-</div>
 
----
-
-<!-- SNAKE ANIMATION -->
-<div align="center">
-
-## 🐍 My Contribution Snake
-
-<img src="https://raw.githubusercontent.com/PoojaKumari/PoojaKumari/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tina5201&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="40%"/>
 
 </div>
 
 ---
 
-<!-- AI / TECH STACK — PINTEREST ICON GRID -->
-<div align="center">
+## 🏆 Achievements & Certifications
 
-## 🛠️ Tech Stack & Tools
-
-### 🤖 AI / ML
-[![Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark&perline=4)](https://skillicons.dev)
-
-### 💻 Programming & Web
-[![Skills](https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,react,nodejs&theme=dark&perline=8)](https://skillicons.dev)
-
-### 🗄️ Databases & Cloud
-[![Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,aws,gcp,docker&theme=dark&perline=6)](https://skillicons.dev)
-
-### 🔧 Tools & Platforms
-[![Skills](https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux,figma&theme=dark&perline=6)](https://skillicons.dev)
-
-</div>
+- 🥇 **IBM** — Data Analysis, ML, Deep Learning with Python
+- 🔴 **Red Hat** — System Administration I, II & OpenShift AI
+- ☁️ **Google Cloud** — Study Jam
+- 📊 **Deloitte** — Data Analytics Job Simulation
+- 🧠 **Infosys** — Fundamentals of NLP
+- 💻 **IEEE SB DAIICT** — TIC-TECH-TOE '25 Hackathon
+- ❤️ **Indian Red Cross** — Blood Donation Volunteering
+- ⚡ **IEEE** — 1 Year Membership
 
 ---
 
-<!-- AI FOCUS AREAS — PINTEREST CARD STYLE -->
+## 🤝 Connect With Me
+
 <div align="center">
 
-## 🧠 AI Specialization Areas
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tina-mohanka-3453b12b6/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tinamohanka@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tina5201)
 
 </div>
 
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Machine%20Learning-A855F7?style=for-the-badge&logo=python&logoColor=white"/>
-<br/><br/>
-Supervised &amp; Unsupervised Learning, Model Evaluation, Feature Engineering
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Deep%20Learning-FF6584?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<br/><br/>
-CNNs, RNNs, Transformers, Neural Architectures
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/NLP-00D4AA?style=for-the-badge&logo=openai&logoColor=white"/>
-<br/><br/>
-Text Classification, Sentiment Analysis, LLMs, RAG
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Computer%20Vision-FFB347?style=for-the-badge&logo=opencv&logoColor=white"/>
-<br/><br/>
-Image Recognition, Object Detection, GANs
-</td>
-</tr>
-</table>
-
----
-
-<!-- FEATURED PROJECTS — PINTEREST 2x2 GRID -->
 <div align="center">
 
-## 🗂️ Featured Projects
-
-<a href="https://github.com/PoojaKumari/project1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoojaKumari&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&icon_color=A855F7" width="45%" />
-</a>
-<a href="https://github.com/PoojaKumari/project2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoojaKumari&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&icon_color=A855F7" width="45%" />
-</a>
-
-<a href="https://github.com/PoojaKumari/project3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoojaKumari&repo=project3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&icon_color=A855F7" width="45%" />
-</a>
-<a href="https://github.com/PoojaKumari/project4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoojaKumari&repo=project4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&icon_color=A855F7" width="45%" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=100&section=footer" width="100%"/>
 
 </div>
-
----
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PoojaKumari&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-<!-- QUOTE BANNER -->
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20goal%20of%20AI%20is%20not%20to%20replace%20human%20thinking%20but%20to%20amplify%20it.&author=Pooja%20Kumari" width="80%"/>
-
-</div>
-
----
-
-<!-- SOCIAL LINKS + BADGES -->
-<div align="center">
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pooja-kumari)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/pooja_kumari)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/pooja_kumari)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pooja.kumari@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23A855F7.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://pooja-kumari.dev)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=PoojaKumari&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/PoojaKumari?color=A855F7&style=for-the-badge&logo=github&label=FOLLOWERS)
-
-</div>
-
----
-
-<!-- FUN METRICS ROW -->
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=PoojaKumari&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="95%"/>
-
-</div>
-
----
-
-<!-- ANIMATED FOOTER BANNER -->
-<div align="center">
-
-*"Code is poetry, AI is the language of the future"* 🌸
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" width="100%"/>
