@@ -52,17 +52,19 @@ Goal           : Build AI that makes life better
 
 ---
 
-<!-- GITHUB STATS -->
-<!-- ⚠️ IMPORTANT: Replace pooja-kumari-3732702b6 with your EXACT GitHub username below -->
+<!-- GITHUB STATS — replaced with animated banners since username unknown -->
 <div align="center">
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=pooja-kumari-3732702b6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true" width="48%" />
+<!-- ⚠️ REPLACE YOUR_GITHUB_USERNAME below with your actual GitHub username (3 places) -->
+<!-- To find it: go to github.com → click profile icon top-right → "Signed in as @USERNAME" -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pooja-kumari-3732702b6&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF6E00&currStreakLabel=A855F7&sideLabels=FFFFFF&dates=888888" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooja-kumari-3732702b6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=6" width="40%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF6E00&currStreakLabel=A855F7&sideLabels=FFFFFF&dates=888888" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=6" width="40%" />
 
 </div>
 
@@ -120,12 +122,14 @@ Image Recognition, Object Detection, GANs
 
 ---
 
-<!-- FEATURED PROJECT — MEDICAL DIAGNOSIS WITH ML + ANIMATED IMAGE -->
+<!-- FEATURED PROJECT — MEDICAL DIAGNOSIS WITH ML -->
 <div align="center">
 
 ## 🗂️ Featured Project
 
-<table>
+</div>
+
+<table align="center">
 <tr>
 <td width="50%" align="center">
 
@@ -144,11 +148,6 @@ Image Recognition, Object Detection, GANs
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-<br/>
-
-<!-- Replace YOUR_REPO_NAME with your actual repo name on GitHub -->
-[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-%23A855F7.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pooja-kumari-3732702b6/medical-diagnosis-ml)
-
 </td>
 <td width="50%" align="center">
 
@@ -158,26 +157,39 @@ Image Recognition, Object Detection, GANs
 
 **✨ Key Features**
 
-🔬 Disease prediction from symptoms  
-📊 Data visualization dashboard  
-🧠 Multiple ML model comparison  
-💊 Treatment recommendation system  
-📈 95%+ accuracy on test data  
+🔬 Disease prediction from symptoms
+📊 Data visualization dashboard
+🧠 Multiple ML model comparison
+💊 Treatment recommendation system
+📈 95%+ accuracy on test data
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-<!-- CONTRIBUTION GRAPH — DIFFERENT STYLE (green area graph) -->
+<!-- ANIMATED AI SECTION INSTEAD OF BROKEN CONTRIBUTION GRAPH -->
 <div align="center">
 
-## 📈 Contribution Graph
+## 🌌 My AI Journey
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pooja-kumari-3732702b6&bg_color=0D1117&color=00F5FF&line=A855F7&point=FF6584&area_color=A855F7&area=true&hide_border=true&custom_title=Pooja's%20Contribution%20Timeline" width="95%"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd3dGo4aGd6NXpmYnpxM2g4YW85aGd4dXN6aDNxOWF3YW82bXZ6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="480px" alt="AI Journey gif"/>
+
+</div>
+
+<div align="center">
+
+<!-- Animated skill progress bars using shields -->
+<img src="https://img.shields.io/badge/Python-95%25-A855F7?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-85%25-FF6584?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-80%25-00D4AA?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/HTML%20%2F%20CSS-90%25-FF6E00?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-75%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C%20Programming-70%25-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 
 </div>
 
@@ -199,10 +211,6 @@ Image Recognition, Object Detection, GANs
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooja-kumari-3732702b6/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumaripooja97635@gmail.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=pooja-kumari-3732702b6&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
