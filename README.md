@@ -57,14 +57,13 @@ Goal           : Build AI that makes life better
 
 ## 📊 GitHub Stats
 
-<!-- ⚠️ REPLACE YOUR_GITHUB_USERNAME below with your actual GitHub username (3 places) -->
-<!-- To find it: go to github.com → click profile icon top-right → "Signed in as @USERNAME" -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF6E00&currStreakLabel=A855F7&sideLabels=FFFFFF&dates=888888" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=pooza936&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=6" width="40%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pooza936&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF6E00&currStreakLabel=A855F7&sideLabels=FFFFFF&dates=888888" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooza936&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=6" width="40%" />
 
 </div>
 
