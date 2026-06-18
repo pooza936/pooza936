@@ -6,7 +6,7 @@
 <!-- ANIMATED TYPING SVG -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Pooja+Kumari+👋;B.Tech+Computer+Engineering+Student+🎓;AI+%26+Machine+Learning+Enthusiast+🤖;Building+the+Future+with+Intelligent+Systems+🚀;Turning+Data+into+Decisions+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Pooja+Kumari+%F0%9F%91%8B;B.Tech+Computer+Engineering+Student+%F0%9F%8E%93;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+the+Future+with+Intelligent+Systems+%F0%9F%9A%80;Turning+Data+into+Decisions+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,17 +20,17 @@
 ### 🌸 About Me
 
 ```yaml
-Name        : Pooja Kumari
-Degree      : B.Tech Computer Engineering
+Name           : Pooja Kumari
+Degree         : B.Tech Computer Engineering
 Specialization : Artificial Intelligence
-Status      : Student 📚
-Location    : India 🇮🇳
-Passion     : AI · ML · Deep Learning · NLP
-Currently   : Exploring LLMs & Neural Networks
-Goal        : Build AI that makes life better
+Status         : Student 📚
+Location       : India 🇮🇳
+Passion        : AI · ML · Deep Learning · NLP
+Currently      : Exploring LLMs & Neural Networks
+Goal           : Build AI that makes life better
 ```
 
-- 🔭 Currently working on **AI/ML Projects**
+- 🔭 Currently working on **Medical Diagnosis with ML**
 - 🌱 Learning **Deep Learning, NLP, LLMs**
 - 🧠 Exploring **Computer Vision & Generative AI**
 - 💡 Love turning complex data into smart solutions
@@ -40,11 +40,11 @@ Goal        : Build AI that makes life better
 </td>
 <td width="45%" align="center" valign="top">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280px" alt="AI coding gif" style="border-radius: 16px;"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280px" alt="AI coding gif"/>
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="280px" alt="coding gif" style="border-radius: 16px;"/>
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="280px" alt="coding gif"/>
 
 </td>
 </tr>
@@ -52,50 +52,35 @@ Goal        : Build AI that makes life better
 
 ---
 
-<!-- ANIMATED STATS SECTION -->
+<!-- GITHUB STATS -->
+<!-- ⚠️ IMPORTANT: Replace pooja-kumari-3732702b6 with your EXACT GitHub username below -->
 <div align="center">
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=PoojaKumari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true&include_all_commits=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=pooja-kumari-3732702b6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PoojaKumari&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF6E00&currStreakLabel=A855F7&sideLabels=FFFFFF&dates=888888" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pooja-kumari-3732702b6&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF6E00&currStreakLabel=A855F7&sideLabels=FFFFFF&dates=888888" width="48%" />
 
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojaKumari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" width="40%" />
-</div>
-
----
-
-<!-- SNAKE ANIMATION -->
-<div align="center">
-
-## 🐍 My Contribution Snake
-
-<img src="https://raw.githubusercontent.com/PoojaKumari/PoojaKumari/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooja-kumari-3732702b6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=6" width="40%" />
 
 </div>
 
 ---
 
-<!-- AI / TECH STACK — PINTEREST ICON GRID -->
+<!-- TECH STACK — ONLY 8 SPECIFIED ICONS -->
 <div align="center">
 
 ## 🛠️ Tech Stack & Tools
 
 ### 🤖 AI / ML
-[![Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark&perline=4)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=2)](https://skillicons.dev)
 
 ### 💻 Programming & Web
-[![Skills](https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,react,nodejs&theme=dark&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,c,js,html,css&theme=dark&perline=5)](https://skillicons.dev)
 
-### 🗄️ Databases & Cloud
-[![Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,aws,gcp,docker&theme=dark&perline=6)](https://skillicons.dev)
-
-### 🔧 Tools & Platforms
-[![Skills](https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux,figma&theme=dark&perline=6)](https://skillicons.dev)
+### 🗄️ Database
+[![Skills](https://skillicons.dev/icons?i=sqlite&theme=dark&perline=1)](https://skillicons.dev)
 
 </div>
 
@@ -113,7 +98,7 @@ Goal        : Build AI that makes life better
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/Machine%20Learning-A855F7?style=for-the-badge&logo=python&logoColor=white"/>
 <br/><br/>
-Supervised &amp; Unsupervised Learning, Model Evaluation, Feature Engineering
+Supervised & Unsupervised Learning, Model Evaluation, Feature Engineering
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/Deep%20Learning-FF6584?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -135,35 +120,64 @@ Image Recognition, Object Detection, GANs
 
 ---
 
-<!-- FEATURED PROJECTS — PINTEREST 2x2 GRID -->
+<!-- FEATURED PROJECT — MEDICAL DIAGNOSIS WITH ML + ANIMATED IMAGE -->
 <div align="center">
 
-## 🗂️ Featured Projects
+## 🗂️ Featured Project
 
-<a href="https://github.com/PoojaKumari/project1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoojaKumari&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&icon_color=A855F7" width="45%" />
-</a>
-<a href="https://github.com/PoojaKumari/project2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoojaKumari&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&icon_color=A855F7" width="45%" />
-</a>
+<table>
+<tr>
+<td width="50%" align="center">
 
-<a href="https://github.com/PoojaKumari/project3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoojaKumari&repo=project3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&icon_color=A855F7" width="45%" />
-</a>
-<a href="https://github.com/PoojaKumari/project4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoojaKumari&repo=project4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&icon_color=A855F7" width="45%" />
-</a>
+### 🏥 Medical Diagnosis with ML
+
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="260px" alt="Medical AI gif"/>
+
+<br/><br/>
+
+> An intelligent ML-powered system that assists in diagnosing medical conditions from patient data using classification algorithms and deep learning models.
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+<br/>
+
+<!-- Replace YOUR_REPO_NAME with your actual repo name on GitHub -->
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-%23A855F7.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pooja-kumari-3732702b6/medical-diagnosis-ml)
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="260px" alt="AI brain gif"/>
+
+<br/><br/>
+
+**✨ Key Features**
+
+🔬 Disease prediction from symptoms  
+📊 Data visualization dashboard  
+🧠 Multiple ML model comparison  
+💊 Treatment recommendation system  
+📈 95%+ accuracy on test data  
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-<!-- ACTIVITY GRAPH -->
+<!-- CONTRIBUTION GRAPH — DIFFERENT STYLE (green area graph) -->
 <div align="center">
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PoojaKumari&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pooja-kumari-3732702b6&bg_color=0D1117&color=00F5FF&line=A855F7&point=FF6584&area_color=A855F7&area=true&hide_border=true&custom_title=Pooja's%20Contribution%20Timeline" width="95%"/>
 
 </div>
 
@@ -178,32 +192,17 @@ Image Recognition, Object Detection, GANs
 
 ---
 
-<!-- SOCIAL LINKS + BADGES -->
+<!-- CONNECT — ONLY LINKEDIN + GMAIL -->
 <div align="center">
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pooja-kumari)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/pooja_kumari)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/pooja_kumari)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pooja.kumari@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23A855F7.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://pooja-kumari.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooja-kumari-3732702b6/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumaripooja97635@gmail.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=PoojaKumari&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/PoojaKumari?color=A855F7&style=for-the-badge&logo=github&label=FOLLOWERS)
-
-</div>
-
----
-
-<!-- FUN METRICS ROW -->
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=PoojaKumari&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="95%"/>
+![Profile Views](https://komarev.com/ghpvc/?username=pooja-kumari-3732702b6&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
